@@ -16,3 +16,11 @@
 
 https://github.com/Sanket-Mathur-22/Quick-Jot/assets/88501631/5ae2d5d1-60f6-40fd-979a-9d5926508109
 
+
+
+
+
+
+
+https://github.com/Sanket-Mathur-22/Quick-Jot/assets/88501631/0c9e8fe6-18f7-429e-98f5-8ed8bb8e1d13
+
