@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "230479892439",
+    "project_id": "quick-jot-532a4",
+    "storage_bucket": "quick-jot-532a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230479892439:android:1c5d9570c25224a9e24592",
+        "android_client_info": {
+          "package_name": "com.example.quick_jot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230479892439-jtp6q8cqbq75trmpig9sacmf85k7vc6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5x7Td-naBbKyabVFKS2WPS_EfQa-LHrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230479892439-jtp6q8cqbq75trmpig9sacmf85k7vc6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
